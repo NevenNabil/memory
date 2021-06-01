@@ -873,7 +873,7 @@ QComboBox
              <number>2</number>
             </property>
             <property name="currentIndex">
-             <number>0</number>
+             <number>1</number>
             </property>
             <widget class="QWidget" name="page_1">
              <layout class="QGridLayout" name="gridLayout_4">
@@ -1540,7 +1540,7 @@ border:none;
                      <set>QAbstractItemView::NoEditTriggers</set>
                     </property>
                     <attribute name="verticalHeaderVisible">
-                     <bool>false</bool>
+                     <bool>true</bool>
                     </attribute>
                     <row>
                      <property name="text">
@@ -1844,7 +1844,7 @@ border:none;
                      <bool>true</bool>
                     </property>
                     <attribute name="verticalHeaderVisible">
-                     <bool>false</bool>
+                     <bool>true</bool>
                     </attribute>
                     <attribute name="verticalHeaderCascadingSectionResizes">
                      <bool>false</bool>
